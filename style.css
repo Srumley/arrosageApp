@@ -13,5 +13,5 @@ body {
 }
 
 .watered {
-    fill: red;
+    fill: red !important; /* Utilisation de !important pour s'assurer que le style est appliqué */
 }
